@@ -5,16 +5,33 @@ lib-cov
 *.dat
 *.out
 *.pid
-
+*.gz
+images
 pids
-logs
 results
+tmp
 
-build
-moc
-.DS_Store
 node_modules
 npm-debug.log
 
-qt_compiled
-lib/chimera.node
+# Editors
+*.esproj
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
+*.swp
+.idea/*
+*.log
+# Mac OSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+
+# Windows
+Thumbs.db
+Desktop.ini

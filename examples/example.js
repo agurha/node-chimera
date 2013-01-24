@@ -1,7 +1,7 @@
 var Chimera = require(__dirname + '/../lib/main').Chimera;
 
-var myUsername = "john02sample01";
-var myPassword = "newsample";
+var myUsername = "agurha";
+var myPassword = "samsung";
 
 var c = new Chimera();
 c.perform({
